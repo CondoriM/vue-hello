@@ -3,5 +3,6 @@ const app = new Vue({
 
     data:{
         hello:'hello world',
+        img: 'https://unsplash.it/300/300?image=',
     }
 })
